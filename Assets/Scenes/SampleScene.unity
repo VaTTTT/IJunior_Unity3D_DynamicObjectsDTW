@@ -242,7 +242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 0.5
-  _distance: 10
+  _distance: 12
 --- !u!1 &283725683
 GameObject:
   m_ObjectHideFlags: 0
@@ -882,7 +882,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 0.5
-  _distance: 10
+  _distance: 12
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
